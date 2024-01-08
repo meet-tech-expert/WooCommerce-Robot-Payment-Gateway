@@ -1,1 +1,2 @@
-# WooCommerce-Robot-Payment-Gateway
+# Accept payments with WooCommerce Robot Payment
+The Robot plugin for WooCommerce allows you to accept payments directly on your store for web and mobile. With Robot, customers redirect to externally hosted checkout page during checkout. After successful payment,customer will be redirected to thankyou page.
